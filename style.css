@@ -1,0 +1,111 @@
+/* ===== Estilos base ===== */
+body {
+    font-family: "Poppins", Arial, sans-serif;
+    background: linear-gradient(135deg, #00375f, #00325c);
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* ===== Contenedor principal ===== */
+.container {
+    max-width: 900px;
+    background-color: white;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* ===== Encabezado ===== */
+header h1 {
+    text-align: center;
+    color: #1976d2;
+    font-size: 2.2rem;
+    margin-bottom: 10px;
+}
+
+header h1 span {
+    color: #0d47a1;
+}
+
+header h2 {
+    text-align: center;
+    color: #1565c0;
+    font-size: 1.2rem;
+    font-weight: normal;
+    margin-bottom: 30px;
+}
+
+/* ===== Secciones ===== */
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #1565c0;
+    border-bottom: 2px solid #bbdefb;
+    padding-bottom: 5px;
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.7;
+    font-size: 1rem;
+}
+
+/* ===== Tarjetas de habilidades ===== */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.card {
+    background: #e3f2fd;
+    padding: 15px 20px;
+    border-radius: 12px;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+    transform: scale(1.03);
+    background: #bbdefb;
+    box-shadow: 0 4px 10px rgba(21, 101, 192, 0.2);
+}
+
+/* ===== Hobbies ===== */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #e3f2fd;
+    margin: 8px 0;
+    padding: 10px 15px;
+    border-radius: 10px;
+    transition: transform 0.2s ease;
+}
+
+ul li:hover {
+    transform: scale(1.03);
+    background: #bbdefb;
+}
+
+/* ===== Responsivo ===== */
+@media (max-width: 600px) {
+    .container {
+        padding: 25px;
+        margin: 20px;
+    }
+
+    header h1 {
+        font-size: 1.8rem;
+    }
+
+    header h2 {
+        font-size: 1rem;
+    }
+}
