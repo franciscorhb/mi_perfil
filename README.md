@@ -1,4 +1,4 @@
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/51e991ca-0f71-4311-97aa-bc27a2dbce04" />¡Hola! Soy Francisco Hernández 👋
+¡Hola! Soy Francisco Hernández 👋
 
 💻 Ingeniero en formación | Desarrollador Full Stack | Apasionado por la tecnología
 
