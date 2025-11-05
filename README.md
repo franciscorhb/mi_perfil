@@ -1,4 +1,4 @@
-¡Hola! Soy Francisco Hernández 👋
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/51e991ca-0f71-4311-97aa-bc27a2dbce04" />¡Hola! Soy Francisco Hernández 👋
 
 💻 Ingeniero en formación | Desarrollador Full Stack | Apasionado por la tecnología
 
@@ -30,7 +30,7 @@ Seguir creciendo como profesional en el área de la Ingeniería de Sistemas, apl
 Sueño con formar parte de equipos donde la innovación y la pasión por el código sean el motor de cada línea programada. 🚀
 
 🎮 Mis hobbies
-📚 Leer libros de ciencia ficción y tecnología futurista
-🎮 Jugar videojuegos (¡me encanta sumergirme en mundos digitales!)
-🏋️‍♂️ Hacer ejercicio para mantener la mente enfocada
-🎸 Tocar la guitarra y disfrutar de buena música
+- Leer libros de ciencia ficción y tecnología futurista
+- Jugar videojuegos (¡me encanta sumergirme en mundos digitales!)
+- Hacer ejercicio para mantener la mente enfocada
+- Disfrutar de buena música
